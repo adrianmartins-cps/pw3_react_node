@@ -10,7 +10,7 @@ const CreatePost = () => {
   const [tags, setTags] = useState();
   const [formError, setFormError] = useState();
   
-  
+
   return (
     <>
     <div>
