@@ -5,7 +5,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyDG36ATwDx0Uu3UEqz0LBWXNHjj2cAOUqw",
   authDomain: "miniblog-adriana.firebaseapp.com",
   projectId: "miniblog-adriana",
-  storageBucket: "miniblog-adriana.appspot.com",
+  storageBucket: "miniblog-adriana.firebasestorage.app",
   messagingSenderId: "412338052677",
   appId: "1:412338052677:web:3693a78b06220dd8094d2c",
   measurementId: "G-9Z2ZBENVSQ"

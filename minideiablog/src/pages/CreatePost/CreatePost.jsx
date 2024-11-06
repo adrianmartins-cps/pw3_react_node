@@ -1,4 +1,4 @@
-import style from './CreatePost.module.css'
+import styles from './CreatePost.module.css'
 import { useState } from 'react'
 import { useInsertDocument } from '../../hooks/useInsertDocument'
 import { useNavigate } from 'react-router-dom'
