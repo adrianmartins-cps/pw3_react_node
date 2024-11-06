@@ -19,7 +19,7 @@ const NavBar = () => {
           <li>
             <NavLink to="Home" className={({isActive}) =>( isActive ? styles.active : null)}>
             Home
-            </NavLink>
+            </NavLink
       
           </li>
           {!use && (
